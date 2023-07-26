@@ -1,0 +1,29 @@
+
+{
+    "data": [
+        {
+            "userId": "{{userId}}",
+            "title": "{{title}}",
+            "body": "{{body}}",
+            "categories": [
+                {
+                    "number": "{{number}}"
+                }
+            ]
+        },
+        {
+           "userId": "{{userId}}",
+            "name": "{{name}}",
+            "title": "{{title}}",
+            "categories": [
+                {
+                    "userId": "{{userId}}",
+                   "body": "{{body}}",
+                   "title": "{{title}}"
+                }
+            ]
+        }
+    ]
+   
+}
+

@@ -1,0 +1,6 @@
+posts,Content-type,title,body,userId,method,status
+'https://jsonplaceholder.typicode.com/posts','application/json; charset=UTF-8',Automation Lead,Leader,1,POST,201
+'https://jsonplaceholder.typicode.com/posts','application/json; charset=UTF-8',Software,Engineer,2,POST,201
+'https://jsonplaceholder.typicode.com/posts','application/json; charset=UTF-8',QA,Engineer,3,POST,201
+'https://jsonplaceholder.typicode.com/posts','application/json; charset=UTF-8',developer,engineer,4,POST,201
+'https://jsonplaceholder.typicode.com/posts','application/json; charset=UTF-8',tester,engineer,5,POST,201
